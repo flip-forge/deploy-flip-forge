@@ -22,5 +22,5 @@ deploying it to GitHub pages.
      description: "Book description"
    ```
 6. Go to the "actions" tab and wait until the deployment action completes.
-7. Visit the generate GitHub page and in order to see your new flipbook. 
+7. Visit the generated GitHub page in order to see your new flipbook. 
    The link should look something like https://USERNAME.github.io/REPOSITORY/
